@@ -45,7 +45,7 @@ const pujitha = {
     currentRole: "AI & ML Intern @ SureProEd 🔭",
     interests: ["Generative AI", "RAG Systems", "Computer Vision", "LLM Apps"],
     exploring: ["AI Agents", "MLOps", "Google Cloud", "Advanced RAG"],
-    funFact: "Solved 160+ LeetCode problems and still debugging life 😄",
+    funFact: "Solved 170+ LeetCode problems and still debugging life 😄",
 
     lifeLoop: function () {
         while (alive) {
