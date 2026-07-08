@@ -1,4 +1,4 @@
-git pull origin main --allow-unrelated-histories<div align="center">
+
 
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:F72585&height=200&section=header&text=Pujitha%20Mamidishetty&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35"/>
